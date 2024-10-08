@@ -1,6 +1,27 @@
+.MonthlyWebsiteBackground {
+    background-image:url(imgs/backgroundimg.jpg);
+    height:400px;
+}
+.MonthlyWebsiteInner {
+    color:white;
+    border:3px dashed white;
+    margin:auto;
+}
+
+
 .btn {
     background-color:purple;
+    color:white;
+    box-shadow:0px 0px 3px 1px black;
+
+}
+.btn:hover {
+    background-color:purple;
+    transform:scale(1.2);
+    color:white;
+    border:1px solid white;
 }
 .card {
    text-align:center;
+   box-shadow:0px 0px 10px -5px black;
 }
