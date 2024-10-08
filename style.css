@@ -8,6 +8,9 @@
     margin:auto;
 }
 
+.pt-3 {
+    font-size:40px;
+}
 
 .btn {
     background-color:purple;
