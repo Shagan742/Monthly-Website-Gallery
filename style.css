@@ -1,12 +1,16 @@
 .MonthlyWebsiteBackground {
     background-image:url(imgs/backgroundimg.jpg);
     height:400px;
+    box-shadow: inset 1px -50px 100px 10px black, 0px 0px 50px 40px black;
 }
+
+
 .MonthlyWebsiteInner {
     color:white;
     border:3px dashed white;
     margin:auto;
 }
+
 
 .pt-3 {
     font-size:40px;
